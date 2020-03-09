@@ -5,6 +5,7 @@
   "devDependencies": {
     "@material-ui/core": "4.9.2",
     "@webcodesk/react-app-framework": "2.0.28",
+    "@webcodesk/webcodesk-srv": "2.0.0",
     "cross-env": "6.0.3",
     "express": "4.17.1",
     "localforage": "1.7.3",
