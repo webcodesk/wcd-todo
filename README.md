@@ -1,2 +1,3 @@
-# wcd-todo
-Template of the ToDo application for Webcodesk.
+# A beginner tutorial for Webcodesk
+
+Follow the instructions in Readme project - open the Readme tab in the project workspace.

@@ -1,0 +1,41 @@
+{
+  "name": "wcd-todo",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@material-ui/core": "4.9.2",
+    "@webcodesk/react-app-framework": "2.0.28",
+    "cross-env": "6.0.3",
+    "express": "4.17.1",
+    "localforage": "1.7.3",
+    "lodash": "4.17.15",
+    "prop-types": "15.7.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-helmet": "5.2.1",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "start": "cross-env PORT=3030 BROWSER=none react-scripts start",
+    "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test --modulePaths=src",
+    "eject": "react-scripts eject",
+    "wcd": "webcodesk-srv -p 7070",
+    "server": "node ./server.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
