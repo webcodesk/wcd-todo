@@ -1,6 +1,8 @@
-#### Application overview
+## Application overview
 
-Here you will find the source code of the ToDo web application. The application consists of two pages.
+Here you will find the source code of the ToDo web application. 
+
+The application consists of two pages.
 On the main page the user sees a list of all the tasks. The user can separately view the completed and unfinished tasks.
 The user can delete tasks from the list. The user adds a new task on another page.
 
@@ -8,7 +10,7 @@ This project was created using [Webcodesk](https://github.com/webcodesk/webcodes
 
 * [Live project demo](https://ide.webcodesk.com/?appDemo=https://wcd-todo-demo.web.app/) 
 
-Tools and libraries were used in the project:
+Tools and libraries used in the project:
 
 * [Create React App](https://github.com/facebook/create-react-app)
 * localforage
@@ -28,18 +30,16 @@ Run commands one by one in the command line:
 Open Webcodesk in the browser on address: `localhost:7070`
 
 
-### Contents
+### Screenshots
 
-Pages:
-
-* `main`
+* `main` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial-demo/master/pics/pic1.jpg" target="_blank">
 <img src="https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial-demo/master/pics/pic1.jpg"
      style="border: 1px solid #cdcdcd; border-radius: 4px; width: 70%" />
 </a>
 
-* `new-note`
+* `new-note` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial-demo/master/pics/pic1.jpg" target="_blank">
 <img src="https://raw.githubusercontent.com/webcodesk/wcd-todo-tutorial-demo/master/pics/pic1.jpg"
