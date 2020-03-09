@@ -35,8 +35,7 @@ Open Webcodesk in the browser on address: `localhost:7070`
 * `main` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png" target="_blank">
-<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png"
-     style="border: 1px solid #cdcdcd; border-radius: 4px; width: 70%" />
+<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png" />
 </a>
 <br/>
 <br/>
@@ -45,8 +44,7 @@ Open Webcodesk in the browser on address: `localhost:7070`
 * `new-note` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png" target="_blank">
-<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png"
-     style="border: 1px solid #cdcdcd; border-radius: 4px; width: 70%" />
+<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png" />
 </a>
 <br/>
 <br/>

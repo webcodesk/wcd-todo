@@ -19,8 +19,7 @@ Tools and libraries used in the project:
 * `main` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png" target="_blank">
-<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png"
-     style="border: 1px solid #cdcdcd; border-radius: 4px; width: 70%" />
+<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/main-page.png" />
 </a>
 <br/>
 <br/>
@@ -28,8 +27,7 @@ Tools and libraries used in the project:
 * `new-note` page
 
 <a href="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png" target="_blank">
-<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png"
-     style="border: 1px solid #cdcdcd; border-radius: 4px; width: 70%" />
+<img src="https://raw.githubusercontent.com/webcodesk/wcd-todo/master/img/new-note-page.png" />
 </a>
 <br/>
 <br/>
